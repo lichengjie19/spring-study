@@ -2,7 +2,7 @@
 > 以下介绍摘录自 [表 2.1. Spring Framework 工件](https://www.docs4dev.com/docs/zh/spring-framework/4.3.21.RELEASE/reference/overview.html)
 
 #### Spring 框架概述
-![Spring 框架概述](https://www.docs4dev.com/images/spring-framework/4.3.21.RELEASE/spring-overview.png "Spring 框架概述")
+![Spring 框架概述](https://www.docs4dev.com/images/spring-framework/4.3.21.RELEASE/spring-overview.png)
 
 
 ***
